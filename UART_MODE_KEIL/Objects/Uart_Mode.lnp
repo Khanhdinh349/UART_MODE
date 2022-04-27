@@ -1,0 +1,3 @@
+".\Objects\main.obj" 
+TO ".\Objects\Uart_Mode" 
+PRINT(".\Listings\Uart_Mode.m51")
